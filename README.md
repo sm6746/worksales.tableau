@@ -4,15 +4,10 @@ The WorkStock Portfolio Dashboard is a powerful HR analytics solution built usin
 
 🌟 Overview
 This project analyzes a comprehensive dataset of employee details to track and visualize:
-
 Workforce structure
-
 Attrition trends
-
 Work satisfaction levels
-
 Departmental performance
-
 The dashboard presents clean, interactive insights that empower HR leaders to optimize hiring, retention, and employee satisfaction strategies.
 
 🎯 Key Features
