@@ -14,7 +14,10 @@ An HR Analytics Dashboard built to visualize workforce metrics, track attrition 
 👥 Demographic Insights: Gender-wise attrition, department-wise turnover, and age distribution.
 📊 Interactive Visuals: Bar charts, heatmaps, and pie charts for intuitive analysis.
 🔍 Advanced Metrics: Work satisfaction index, job role attrition, and education-based turnover.
+
+
 --
+
 
 🛠️ Technologies Used
 Component	Tools/Libraries
