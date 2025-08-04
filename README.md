@@ -1,29 +1,30 @@
 📊 WorkStock Portfolio Analysis Dashboard
-A Mini Project Report
-
---
+🧾 A Mini Project Report
+The WorkStock Portfolio Dashboard is a powerful HR analytics solution built using Python (Pandas, Scikit-learn) for data processing and Tableau for interactive visualizations. It helps HR professionals monitor key workforce metrics, detect attrition patterns, and make data-driven talent management decisions.
 
 🌟 Overview
-An HR Analytics Dashboard built to visualize workforce metrics, track attrition trends, and optimize talent management using Python (Pandas, Scikit-learn) and Tableau.
+This project analyzes a comprehensive dataset of employee details to track and visualize:
 
---
+Workforce structure
 
+Attrition trends
+
+Work satisfaction levels
+
+Departmental performance
+
+The dashboard presents clean, interactive insights that empower HR leaders to optimize hiring, retention, and employee satisfaction strategies.
 
 🎯 Key Features
-📈 KPI Tracking: Employee count, churn rate, operational staff, and age demographics.
-👥 Demographic Insights: Gender-wise attrition, department-wise turnover, and age distribution.
-📊 Interactive Visuals: Bar charts, heatmaps, and pie charts for intuitive analysis.
-🔍 Advanced Metrics: Work satisfaction index, job role attrition, and education-based turnover.
-
-
---
-
+Category	Description
+📈 KPI Tracking	Employee headcount, attrition rate, average age, job satisfaction
+👥 Demographics	Gender-wise attrition, department turnover, and age distribution
+📊 Interactive Visuals	Filterable bar charts, pie charts, heatmaps via Tableau
+🔍 Advanced Metrics	Satisfaction index, education-based attrition, job-role trends
 
 🛠️ Technologies Used
-Component	Tools/Libraries
-Data Processing	Python (Pandas, Scikit-learn)
+Component	Tools & Libraries
+Data Processing	Python (pandas, scikit-learn)
 Visualization	Tableau
 Data Cleaning	Missing value imputation, Label Encoding
-
-
---
+Deployment (optional)	Tableau Public
